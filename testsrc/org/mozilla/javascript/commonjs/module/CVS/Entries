@@ -1,0 +1,13 @@
+D/1.0////
+/ComplianceTests.java/1.1/Mon Feb 15 19:31:15 2010//
+/RequireTests.java/1.1/Mon Feb 15 19:31:15 2010//
+/assert.js/1.1/Mon Feb 15 19:31:15 2010//
+/console.js/1.1/Mon Feb 15 19:31:15 2010//
+/system.js/1.1/Mon Feb 15 19:31:15 2010//
+/testNoArgsRequire.js/1.1/Mon Feb 15 19:31:15 2010//
+/testNonSandboxed.js/1.1/Mon Feb 15 19:31:15 2010//
+/testRelativeId.js/1.1/Mon Feb 15 19:31:15 2010//
+/testSandboxed.js/1.1/Mon Feb 15 19:31:15 2010//
+/testSetMainForAlreadyLoadedModule.js/1.1/Mon Feb 15 19:31:15 2010//
+/util.js/1.1/Mon Feb 15 19:31:15 2010//
+D/x////
